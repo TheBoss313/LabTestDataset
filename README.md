@@ -2,7 +2,7 @@
 # LabTestDataset
 
 A dataset for AI sorter testing.  
-Dataset contains book images: 
+Dataset contains book images:  
 bad = photos  
 good = non-photos  
 
